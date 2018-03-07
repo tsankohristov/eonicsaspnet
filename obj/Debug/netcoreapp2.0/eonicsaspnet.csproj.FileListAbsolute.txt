@@ -1,0 +1,10 @@
+/home/tsanko/work/eonics-ro-poc/eonicsaspnet/bin/Debug/netcoreapp2.0/eonicsaspnet.deps.json
+/home/tsanko/work/eonics-ro-poc/eonicsaspnet/bin/Debug/netcoreapp2.0/eonicsaspnet.runtimeconfig.json
+/home/tsanko/work/eonics-ro-poc/eonicsaspnet/bin/Debug/netcoreapp2.0/eonicsaspnet.runtimeconfig.dev.json
+/home/tsanko/work/eonics-ro-poc/eonicsaspnet/bin/Debug/netcoreapp2.0/eonicsaspnet.dll
+/home/tsanko/work/eonics-ro-poc/eonicsaspnet/bin/Debug/netcoreapp2.0/eonicsaspnet.pdb
+/home/tsanko/work/eonics-ro-poc/eonicsaspnet/obj/Debug/netcoreapp2.0/eonicsaspnet.csproj.CoreCompileInputs.cache
+/home/tsanko/work/eonics-ro-poc/eonicsaspnet/obj/Debug/netcoreapp2.0/eonicsaspnet.AssemblyInfoInputs.cache
+/home/tsanko/work/eonics-ro-poc/eonicsaspnet/obj/Debug/netcoreapp2.0/eonicsaspnet.AssemblyInfo.cs
+/home/tsanko/work/eonics-ro-poc/eonicsaspnet/obj/Debug/netcoreapp2.0/eonicsaspnet.dll
+/home/tsanko/work/eonics-ro-poc/eonicsaspnet/obj/Debug/netcoreapp2.0/eonicsaspnet.pdb
